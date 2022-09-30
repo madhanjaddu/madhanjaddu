@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @madhanjaddu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+class First
+{
+public static void main(String[] arg)
+{
+System.out.println("Welcome to Java");
 
-<!---
-madhanjaddu/madhanjaddu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+}
+}
